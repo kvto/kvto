@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <img src="https://giphy.com/gifs/mYoLugjidgyn0FB2LG" width="200"/>
 </div>
 

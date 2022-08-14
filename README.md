@@ -10,7 +10,4 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/mYoLugjidgyn0FB2LG/giphy.gif?cid=790b7611f75c76d91dbe3e345ae5ef52c7a239dba7c62841&rid=giphy.gif&ct=g" width="200"/>
-</div>
-
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/mYoLugjidgyn0FB2LG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/mYoLugjidgyn0FB2LG">via GIPHY</a></p>

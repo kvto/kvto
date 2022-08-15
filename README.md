@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/mYoLugjidgyn0FB2LG/giphy.gif" width="800"/>
+  <img src="https://media.giphy.com/media/mYoLugjidgyn0FB2LG/giphy.gif" width="600"/>
 </div>
 
 <div align="center" font-size="18px" margin-top="200px">

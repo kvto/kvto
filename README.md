@@ -43,8 +43,6 @@ You can click the Preview link to take a look at your changes.
    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=40&color=2ec539" alt="redux" width="40" height="40"/> </a>
 </div>
 
-
-
 ## Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvto)](https://github.com/anuraghazra/github-readme-stats)
@@ -52,3 +50,40 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Projects:
+
+### Project Individual - Dogs
+
+Development of an SPA (single page application)
+Technologies used React, Redux, CSS, NodeJs,
+Express, PostgreSQL, Sequelize, GitHub 
+
+• Front End
+React was used to layout the components and
+Redux to manage global states.
+All components were stylized using
+Pure CSS (no third-party libraries)
+
+• Back End
+The SPA consumes an external api
+(https://api.thedogapi.com) adding
+functionalities through a developed Back End
+in NodeJs using the Express library to manage
+HTTP requests.
+
+• DataBase
+It also allows you to create new data and host it in a
+server (new races can be created). To provide
+this service was used PostgreSQL as a manager of
+database and Sequelize as ORM.
+
+<div id="badges" align="center">
+  <a href="https://dai.ly/k3aDHQqgyYJ1ZEy6q07">
+    Link to see the video🎥
+  </a>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://github.com/kvto/PI_Dogs">
+    Link to see the repository📕
+  </a>
+</div>

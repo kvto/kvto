@@ -16,7 +16,16 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div align="center" font-size="18px" margin-top="200px">
-   
+
+## About me:
+I am a Full Stack Developer born in Venezuelan but living in Lima, Peru.
+
+🔭 Graduated in systems engineering, in 2016, knowledge in Graphic Design, English and Marketing.
+
+🌱 Soft skills: Team Player,  Autodidact, Creativity, Empathy, Sociable, Dedication
+
+⚡ In my free time, I usually create projects and expand my knowledge regarding new technologies
+
 
 # Systems Engineer - Full Stack Developer - Graphic Designer 💻 
 </div>

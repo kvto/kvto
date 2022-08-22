@@ -60,7 +60,36 @@ I am a Full Stack Developer born in Venezuelan but living in Lima, Peru.
 
 ## Projects:
 
-### Project Individual - Dogs
+### Project Virtual Store - Ecommerce (June 2022)
+
+Development of an Ecommerce (application in charge of making payments)
+Technologies used React, Redux, CSS, Stripe (payment method), Firebase (authentication), cors
+
+• Front-end
+React was used to design the components and
+Redux to manage global states.
+All components were styled using
+Pure CSS (no third party libraries)
+
+•Back-end
+The Ecommerce consumes from the backend through Cors and Express, 
+creating an HTTP server, where the connection between our APP with the Firebase (payment method) 
+will be handled, creating the order to handle the corresponding data.
+
+<div id="badges" align="center">
+  <a href="https://ecommerce-kjmz.netlify.app/">
+    Link to see the page📄
+  </a>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://github.com/kvto/2022-ecommerce">
+    Link to see the repository📕
+  </a>
+</div>
+
+
+### Project Individual - Dogs (June 2022)
 
 Development of an SPA (single page application)
 Technologies used React, Redux, CSS, NodeJs,

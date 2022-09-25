@@ -181,14 +181,20 @@ database and Sequelize as ORM.
 
 ## Other Projects:
 
+<div id="badges" >
 <a href="https://cotizador2022.netlify.app">
     Cotizador RIMAC 2022🚗 (September 2022)
   </a>
+</div>
 
+<div id="badges" >
 <a href="https://github.com/kvto/test">
     Front sample 💻(September 2022)
   </a>
+</div>
 
+<div id="badges" >
 <a href="https://github.com/kvto/list/">
     Check-list📄 (June 2022) 
   </a>
+</div>

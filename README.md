@@ -55,6 +55,33 @@ I am a Full Stack Developer born in Venezuelan but living in Lima, Peru.
 
 ## Projects:
 
+### Project SPA - movies (Agost 2022)
+
+Development of an SPA (single page application)
+Technologies used React, Redux, CSS, NodeJs,
+Express, GitHub 
+
+• Front End
+React was used to layout the components and
+Redux to manage global states.
+All components were stylized using
+Pure CSS (no third-party libraries)
+
+The SPA consumes an external api
+(https://api.themoviedb.org/3)
+
+
+<div id="badges" align="center">
+  <a href="https://movies-2022-kjmz.netlify.app/home">
+    Link to see the page📄
+  </a>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://github.com/kvto/2022-movies">
+    Link to see the repository📕
+  </a>
+
 ### Project Virtual Store - Ecommerce - Vinos App (July 2022)
 
 Development of an Ecommerce (application in charge of making payments)
@@ -138,8 +165,8 @@ this service was used PostgreSQL as a manager of
 database and Sequelize as ORM.
 
 <div id="badges" align="center">
-  <a href="https://dai.ly/k3aDHQqgyYJ1ZEy6q07">
-    Link to see the video🎥
+  <a href="https://front-dog.vercel.app/">
+    Link to see the page📄
   </a>
 </div>
 

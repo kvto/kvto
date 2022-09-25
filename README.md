@@ -55,6 +55,34 @@ I am a Full Stack Developer born in Venezuelan but living in Lima, Peru.
 
 ## Projects:
 
+### Project Virtual Store - Ecommerce - Vinos App (July 2022)
+
+Development of an Ecommerce (application in charge of making payments)
+Technologies used React, Redux, CSS, Mercado Pago (payment method), Auth0 (authentication)
+
+• Front-end
+React was used to design the components and
+Redux to manage global states.
+All components were styled using
+tailwing, Vite.js, postcss
+
+•Back-end
+The Ecommerce consumes from the backend through Cors and Express, 
+creating an HTTP server, where the connection between our APP with the Mercado Pago (payment method) 
+will be handled, creating the order to handle the corresponding data.
+
+<div id="badges" align="center">
+  <a href="https://nueva-prueba-sin-variables.vercel.app/">
+    Link to see the page📄
+  </a>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://github.com/kvto/PF-HENRY-VINOSFINAL">
+    Link to see the repository📕
+  </a>
+</div>
+
 ### Project Virtual Store - Ecommerce (June 2022)
 
 Development of an Ecommerce (application in charge of making payments)

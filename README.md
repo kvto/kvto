@@ -55,6 +55,31 @@ I am a Full Stack Developer born in Venezuelan but living in Lima, Peru.
 
 ## Projects:
 
+### Project created website proveed Streaming (September 2022)
+
+Development of an Ecommerce (streaming application which must make payments for the subscription) 
+Technologies used React, Redux, CSS, Materia UI, Paypal (payment method), Firebase (authentication)
+
+• Front-end React was used to design the components and Redux to manage global states.
+
+•Back-end The Ecommerce consumes from the backend through Cors and Express, creating an HTTP server,
+where the connection of our APP with Paypal (payment method) will be handled, 
+creating the order to handle the corresponding data.
+
+The APP consumes an external api (https://api.themoviedb.org/3)
+
+<div id="badges" align="center">
+  <a href="https://webstreaming-kjmz.netlify.app/">
+    Link to see the page📄
+  </a>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://github.com/kvto/2022netflix">
+    Link to see the repository📕
+  </a>
+</div>
+
 
 ### Project created API (September 2022)
 Development of an API (application processing interface) 

@@ -56,6 +56,19 @@ I am a Full Stack Developer born in Venezuelan but living in Lima, Peru.
 ## Projects:
 
 
+### Project created API (September 2022)
+Development of an API (application processing interface) 
+for the storage of information (users, tracks, stores) 
+technologies used Express, Cors, Dotenv, Multer, GitHub, JWT (authentication), Robot 3t (Database Manager)
+
+Focused on sql (Sequelize) and non-sql (Mongoose) models.
+
+<div id="badges" align="center">
+  <a href="https://github.com/kvto/API">
+    Link to see the repository📕
+  </a>
+</div>
+
 ### Project Movies (Agost 2022)
 
 Development of an SPA (single page application)

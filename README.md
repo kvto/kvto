@@ -33,14 +33,18 @@ I am a Full Stack Developer born in Venezuelan but living in Lima, Peru.
 | [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="v logo" width="40">](https://reactjs.org/)  | [<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="go logo" width="40">](https://mui.com/material-ui/)  | [<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="cpp logo" width="40">](https://redux.js.org/)  |  [<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="c logo" width="40">](https://www.tutorialspoint.com/css/css3_tutorial.htm) |  [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="python logo" width="40">](https://html.com/html5/) | [<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="bash logo" width="40">](https://www.javascript.com/)  |  [<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="bash logo" width="40">](https://firebase.google.com/)  |  [<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="bash logo" width="40">](https://www.mysql.com/)  |  [<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="bash logo" width="40">](https://nodejs.org/en/)  |  [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="bash logo" width="40">](https://git-scm.com/)  |  [<img src="https://icongr.am/devicon/sequelize-original.svg?size=40&color=2ec539" alt="bash logo" width="40">](https://sequelize.org/)  |  [<img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=40&color=2ec539" alt="bash logo" width="40">](https://www.mongodb.com/)  |  [<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="bash logo" width="40">](https://desarrolloweb.com/home/c)  |  [<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="bash logo" width="40">](https://www.postgresql.org/)  |  [<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" alt="bash logo" width="40">](https://angular.io/)  |  [<img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" alt="bash logo" width="40">](https://woocommerce.com/)
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
+## Tools 🛠️:
 
-## Stats:
+| [<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="js logo" width="40">](https://code.visualstudio.com/)  | [<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="ts logo" width="40">](https://visualstudio.microsoft.com/es/) |  [<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="rust logo" width="40">](https://github.com/)  |  [<img src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="rust logo" width="40">](https://www.postman.com/)
+|---|---|---|---|
+
+## Stats 📈:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvto)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvto&show_icons=true&theme=dark)
 
 
-## Projects:
+## Projects 💼:
 
 ### Project created website proveed Streaming (September 2022)
 

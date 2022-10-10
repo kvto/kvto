@@ -28,24 +28,11 @@ I am a Full Stack Developer born in Venezuelan but living in Lima, Peru.
 
 
 <div align="center">
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <a href="https://sequelize.org" target="_blank"> <img src="https://icongr.am/devicon/sequelize-original.svg?size=40&color=2ec539" alt="postgresql" width="40"               height="40"/> </a>  
-   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=40&color=2ec539" alt="redux" width="40" height="40"/> </a>
-</div>
+
+
+| [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="v logo" width="24">](https://reactjs.org/)  | [<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="go logo" width="38">](https://mui.com/material-ui/)  | [<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="cpp logo" width="24">](https://redux.js.org/)  |  [<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="c logo" width="24">](https://www.tutorialspoint.com/css/css3_tutorial.htm) |  [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="python logo" width="24">](https://html.com/html5/) | [<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="bash logo" width="24">](https://www.javascript.com/)  |  [<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="bash logo" width="24">](https://firebase.google.com/)  |  [<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="bash logo" width="24">](https://www.mysql.com/)  |  [<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="bash logo" width="24">]  |  [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="bash logo" width="24">](https://git-scm.com/)  |  [<img src="https://icongr.am/devicon/sequelize-original.svg?size=40&color=2ec539" alt="bash logo" width="24">](https://sequelize.org/)  |  [<img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=40&color=2ec539" alt="bash logo" width="24">](https://www.mongodb.com/)
+|---|---|---|---|---|---|---|---|---|---|---|---|
+
 
 ## Stats:
 

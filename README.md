@@ -46,6 +46,24 @@ I am a Full Stack Developer born in Venezuelan but living in Lima, Peru.
 
 ## Projects 💼:
 
+### Project created website Page of Videos Tutorials (Demo) (Octuber 2022)
+Development of a SPA (application whose purpose is to have a collection of videos referring to 
+  the garment printing process)
+Technologies used Angular 11, Typescript, HTML, SCSS, CSS
+
+• Front-end Angular 11 was used to design the components .
+
+•Back-end The app consumes from the backend via json, creating an HTTP server,
+where the connection of our APP will be managed.
+
+
+<div id="badges" align="center">
+  <a href="https://github.com/kvto/2022-app-angular">
+    Link to see the repository📕
+  </a>
+</div>
+  
+  
 ### Project created website proveed Streaming (September 2022)
 
 Development of an Ecommerce (streaming application which must make payments for the subscription) 

@@ -228,6 +228,12 @@ database and Sequelize as ORM.
 ## Other Projects:
 
 <div id="badges" >
+<a href="https://kjmz-projectmodal.netlify.app/">
+    Modal Page (DEMO)!📄📑 (November 2022)
+  </a>
+</div>
+  
+<div id="badges" >
 <a href="https://cotizador2022.netlify.app">
     Cotizador RIMAC 2022🚗 (September 2022)
   </a>

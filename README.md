@@ -45,7 +45,7 @@ I am a Full Stack Developer born in Venezuelan but living in Lima, Peru.
 
 ## Projects 💼:
 
-### Project created website Page of Videos Tutorials (Demo) (Octuber 2022)
+### Project created website Page of Videos Tutorials (Demo) (Angular+11 - Octuber 2022)
 Development of a SPA (application whose purpose is to have a collection of videos referring to 
   the garment printing process)
 Technologies used Angular 11, Typescript, HTML, SCSS, CSS
@@ -63,7 +63,7 @@ where the connection of our APP will be managed.
 </div>
   
   
-### Project created website proveed Streaming (September 2022)
+### Project created website proveed Streaming (React.js - September 2022)
 
 Development of an Ecommerce (streaming application which must make payments for the subscription) 
 Technologies used React, Redux, CSS, Materia UI, Paypal (payment method), Firebase (authentication)
@@ -102,7 +102,7 @@ Focused on sql (Sequelize) and non-sql (Mongoose) models.
   </a>
 </div>
 
-### Project Movies (Agost 2022)
+### Project Movies (React.js - Agost 2022)
 
 Development of an SPA (single page application)
 Technologies used React, Redux, CSS, NodeJs,
@@ -130,7 +130,7 @@ The SPA consumes an external api
   </a>
 </div>
 
-### Project Virtual Store - Ecommerce - Vinos App (July 2022)
+### Project Virtual Store - Ecommerce - Vinos App (Vue.js and React.js - July 2022)
 
 Development of an Ecommerce (application in charge of making payments)
 Technologies used React, Redux, CSS, Mercado Pago (payment method), Auth0 (authentication)
@@ -158,7 +158,7 @@ will be handled, creating the order to handle the corresponding data.
   </a>
 </div>
 
-### Project Virtual Store - Ecommerce (June 2022)
+### Project Virtual Store - Ecommerce (React.js - June 2022)
 
 Development of an Ecommerce (application in charge of making payments)
 Technologies used React, Redux, CSS, Stripe (payment method), Firebase (authentication), cors
@@ -187,7 +187,7 @@ will be handled, creating the order to handle the corresponding data.
 </div>
 
 
-### Project Individual - Dogs (June 2022)
+### Project Individual - Dogs (React.js - June 2022)
 
 Development of an SPA (single page application)
 Technologies used React, Redux, CSS, NodeJs,
@@ -229,24 +229,24 @@ database and Sequelize as ORM.
 
 <div id="badges" >
 <a href="https://kjmz-projectmodal.netlify.app/">
-    Modal Page (DEMO)!📄📑 (November 2022)
+    Modal Page (DEMO)!📄📑 (React.js - November 2022)
   </a>
 </div>
   
 <div id="badges" >
 <a href="https://cotizador2022.netlify.app">
-    Cotizador RIMAC 2022🚗 (September 2022)
+    Cotizador RIMAC 2022🚗 (React.js - September 2022)
   </a>
 </div>
 
 <div id="badges" >
 <a href="https://github.com/kvto/test">
-    Front sample 💻(September 2022)
+    Front sample 💻(React.js - September 2022)
   </a>
 </div>
 
 <div id="badges" >
 <a href="https://github.com/kvto/list/">
-    Check-list📄 (June 2022) 
+    Check-list📄 (React.js - June 2022) 
   </a>
 </div>

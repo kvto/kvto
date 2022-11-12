@@ -45,7 +45,7 @@ I am a Full Stack Developer born in Venezuelan but living in Lima, Peru.
 
 ## Projects 💼:
 
-### Project created website Handmade Soaps, Shampoos and Conditioners! (Demo) (Angular+11 - Octuber 2022)
+### Project created website Handmade Soaps, Shampoos and Conditioners! (Angular+11 - Octuber 2022)
 Development of a SPA (application whose purpose is to show all the products in our inventory corresponding to handmade soaps, conditioners and shampoos in order to finalize the purchase of the same, using methods such as pick-up in our stores or delivery)
 Technologies used Angular 11, Typescript, HTML, SCSS, CSS
 

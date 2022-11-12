@@ -45,6 +45,22 @@ I am a Full Stack Developer born in Venezuelan but living in Lima, Peru.
 
 ## Projects 💼:
 
+### Project created website Handmade Soaps, Shampoos and Conditioners! (Demo) (Angular+11 - Octuber 2022)
+Development of a SPA (application whose purpose is to show all the products in our inventory corresponding to handmade soaps, conditioners and shampoos in order to finalize the purchase of the same, using methods such as pick-up in our stores or delivery)
+Technologies used Angular 11, Typescript, HTML, SCSS, CSS
+
+• Front-end Angular 11 was used to design the components.
+
+•Back-end The application consumes from the backend through json, creating an HTTP server,
+where the connection of our APP will be managed.
+
+
+<div id="badges" align="center">
+  <a href="https://github.com/kvto/2022-storeAngular">
+    Link to see the repository📕
+  </a>
+</div>
+  
 ### Project created website Page of Videos Tutorials (Demo) (Angular+11 - Octuber 2022)
 Development of a SPA (application whose purpose is to have a collection of videos referring to 
   the garment printing process)

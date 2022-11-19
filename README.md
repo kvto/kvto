@@ -45,6 +45,17 @@ I am a Full Stack Developer born in Venezuelan but living in Lima, Peru.
 
 ## Projects 💼:
   
+### Project created Page Clothing Repair Leonor's! (Wordpress - November 2022)
+Development of an application whose purpose is to show all the participants of the different Spanish-speaking freestyle leagues, as well as important data, such as their views, ratings, etc.
+Technologies used React Native, Yup, formik
+
+<div id="badges" align="center">
+  <a href="https://github.com/kvto/my_app_mobile">
+    Link to see the repository📕
+  </a>
+</div>
+  
+  
 ### Project created Freestyle Masters Series (FMS) Mobile App ! (React Native - Octuber 2022)
 Development of an application whose purpose is to show all the participants of the different Spanish-speaking freestyle leagues, as well as important data, such as their views, ratings, etc.
 Technologies used React Native, Yup, formik

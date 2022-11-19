@@ -46,11 +46,11 @@ I am a Full Stack Developer born in Venezuelan but living in Lima, Peru.
 ## Projects 💼:
   
 ### Project created Page Clothing Repair Leonor's! (Wordpress - November 2022)
-Development of an application whose purpose is to show all the participants of the different Spanish-speaking freestyle leagues, as well as important data, such as their views, ratings, etc.
-Technologies used React Native, Yup, formik
+Development of a small virtual store in which the purchases of the different clothing items that exist in the store are displayed and made, granting many accessible modalities to facilitate the purchase of customers, having coupons as one of the greatest attractions
+Technologies used Wordpress, with free Storefront template, with a free domain at trenchera.dev, using payment gateways such as Paypal, Yape and Plin
 
 <div id="badges" align="center">
-  <a href="https://github.com/kvto/my_app_mobile">
+  <a href="https://lotus.server1.trinchera.dev/">
     Link to see the repository📕
   </a>
 </div>

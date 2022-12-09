@@ -54,7 +54,7 @@ Using template manager and components as Elementor was, plugins for managing and
 
 <div id="badges" align="center">
   <a href="https://editorialtercersol.com">
-    Link to see the page📕
+    Link to see the page: Editorial Tecer Sol📕
   </a>
 </div>
 

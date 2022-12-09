@@ -53,7 +53,7 @@ Making changes and improvements to the official page of Editorial Tercer Sol, wh
 Using template manager and components as Elementor was, plugins for managing and creating forms, sliders; as well as creating different CSS code to locate the components in the right place taking into account all the dimensions of the different enabled devices that users can choose to enter the previously mentioned page (mobile, pc, laptop)
 
 <div id="badges" align="center">
-  <a href=" https://editorialtercersol.com">
+  <a href="https://editorialtercersol.com">
     Link to see the page📕
   </a>
 </div>

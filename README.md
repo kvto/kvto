@@ -43,8 +43,21 @@ I am a Full Stack Developer born in Venezuelan but living in Lima, Peru.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvto&show_icons=true&theme=dark)
 
 ## Jobs 🖱
-Currently working for the company Innova Solutions as a Web Developer on the Wordpress platform.  
+Currently working for the company Innova Solutions, located in the district of San Miguel, Lima, Peru, working as a Web Developer in the Wordpress platform.
+
+## Projects related to my job 💼: 
   
+Making changes and improvements to the official page of Editorial Tercer Sol, whose purpose is to support and contribute to the university community, faculty, researchers, scientists and writers in general to disseminate their productions. We promote new ways of understanding and transmitting knowledge.
+  
+
+Using template manager and components as Elementor was, plugins for managing and creating forms, sliders; as well as creating different CSS code to locate the components in the right place taking into account all the dimensions of the different enabled devices that users can choose to enter the previously mentioned page (mobile, pc, laptop)
+
+<div id="badges" align="center">
+  <a href=" https://editorialtercersol.com">
+    Link to see the page📕
+  </a>
+</div>
+
 ## Projects 💼:
   
 ### Project created Page Clothing Repair Leonor's! (Wordpress - November 2022)
@@ -53,7 +66,7 @@ Technologies used Wordpress, with free Storefront template, with a free domain a
 
 <div id="badges" align="center">
   <a href="https://lotus.server1.trinchera.dev/">
-    Link to see the repository📕
+    Link to see the page📕
   </a>
 </div>
   

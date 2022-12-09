@@ -42,7 +42,9 @@ I am a Full Stack Developer born in Venezuelan but living in Lima, Peru.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvto)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvto&show_icons=true&theme=dark)
 
-
+## Jobs 🖱
+Currently working for the company Innova Solutions as a Web Developer on the Wordpress platform.  
+  
 ## Projects 💼:
   
 ### Project created Page Clothing Repair Leonor's! (Wordpress - November 2022)

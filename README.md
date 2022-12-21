@@ -57,6 +57,17 @@ Using template manager and components as Elementor was, plugins for managing and
     Link to see the page: Editorial Tecer Sol📕
   </a>
 </div>
+ <div id="badges" align="center">
+  <a href="https://editorialnovomundo.com/">
+    Link to see the page: Editorial Novo mundo📕
+  </a>
+</div>
+  
+  <div id="badges" align="center">
+  <a href="https://editorialsaquedepunta.com/">
+    Link to see the page: Editorial Saque de Punta📕
+  </a>
+</div>
 
 ## Projects 💼:
   

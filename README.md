@@ -43,7 +43,7 @@ I am a Full Stack Developer born in Venezuelan but living in Lima, Peru.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvto&show_icons=true&theme=dark)
 
 ## Jobs 🖱
-Currently working for the company Innova Solutions, located in the district of San Miguel, Lima, Peru, working as a Web Developer in the Wordpress platform.
+Currently working for the company Innova Solutions, located in the district of San Miguel, Lima, Peru, working as a Web Developer in the Wordpress platform, 3D Virtual Reality Developer in the Unity Plataform.
 
 ## Projects related to my job 💼: 
   
@@ -55,6 +55,11 @@ Using template manager and components as Elementor was, plugins for managing and
 <div id="badges" align="center">
   <a href="https://editorialtercersol.com">
     Link to see the page: Editorial Tecer Sol📕
+  </a>
+</div>
+  <div id="badges" align="center">
+  <a href="https://editorialkuntur.com/">
+    Link to see the page: Editorial Kuntur📕
   </a>
 </div>
  <div id="badges" align="center">

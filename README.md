@@ -75,6 +75,12 @@ Using the template and component manager as Elementor was, plugins to manage and
   </a>
 </div>
 
+  <div id="badges" align="center">
+  <a href="https://edistatespress.com/">
+    Link to see the page: Editorial Edistates Press📕
+  </a>
+</div>
+  
 ## Projects 💼:
   
 ### Project created Page Clothing Repair Leonor's! (Wordpress - November 2022)

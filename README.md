@@ -14,7 +14,7 @@
 ## About me:
 I am a Full Stack Developer born in Venezuelan but living in Lima, Peru.
 
-🔭 Graduated in systems engineering, in 2016, knowledge in Graphic Design, English and Marketing.
+🔭 Graduated in systems engineering, in 2016, knowledge in Graphic Design, English, Marketing and 3D Virtual Reality Developer.
 
 🌱 Soft skills: Team Player,  Autodidact, Creativity, Empathy, Sociable, Dedication
 
@@ -34,8 +34,8 @@ I am a Full Stack Developer born in Venezuelan but living in Lima, Peru.
 
 ## Tools 🛠️:
 
-| [<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="js logo" width="40">](https://code.visualstudio.com/)  | [<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="ts logo" width="40">](https://visualstudio.microsoft.com/es/) |  [<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="rust logo" width="40">](https://github.com/)  |  [<img src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="rust logo" width="40">](https://www.postman.com/) | [<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity logo" width="40">](https://unity.com/)
-|---|---|---|---|---|
+| [<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="js logo" width="40">](https://code.visualstudio.com/)  | [<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="ts logo" width="40">](https://visualstudio.microsoft.com/es/) |  [<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="rust logo" width="40">](https://github.com/)  |  [<img src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="rust logo" width="40">](https://www.postman.com/) | [<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity logo" width="40">](https://unity.com/)| [<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" alt="androidstudio logo" width="40">](https://developer.android.com/studio)
+|---|---|---|---|---|---|
 
 
 ## Stats 📈:

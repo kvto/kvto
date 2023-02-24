@@ -82,14 +82,22 @@ Using the template and component manager as Elementor was, plugins to manage and
 </div>
   
 ## Projects 💼:
+
+### Project created Virtual Reality mobile application! (Unity - Febrero 2023)
+Creation of a virtual reality application, where through a specific image the mobile can create a 3D model simply by bringing it closer with its built-in camera.
+<div id="badges" align="center">
+  <a href="https://lotus.server1.trinchera.dev/">
+    Link to see the page📕
+  </a>
+</div>
   
 ### Project created Page Clothing Repair Leonor's! (Wordpress - November 2022)
 Development of a small virtual store in which the purchases of the different clothing items that exist in the store are displayed and made, granting many accessible modalities to facilitate the purchase of customers, having coupons as one of the greatest attractions
 Technologies used Wordpress, with free Storefront template, with a free domain at trenchera.dev, using payment gateways such as Paypal, Yape and Plin
 
 <div id="badges" align="center">
-  <a href="https://lotus.server1.trinchera.dev/">
-    Link to see the page📕
+  <a href="https://github.com/kvto/ARProject1">
+    Link to see the repository📕
   </a>
 </div>
   

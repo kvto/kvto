@@ -84,6 +84,14 @@ Using the template and component manager as Elementor was, plugins to manage and
 ## Projects 💼:
 
 ### Project created Virtual Reality mobile application! (Unity - Febrero 2023)
+Creation of a virtual reality application, where through various images the mobile can create a 3D model simply by bringing it closer with its integrated camera. Adding various scripts which are responsible for the movement of various 3D models, as well as the rotation of various elements.
+<div id="badges" align="center">
+  <a href="https://github.com/kvto/ARProject2">
+    Link to see the repository📕
+  </a>
+</div>
+  
+### Project created Virtual Reality mobile application! (Unity - Febrero 2023)
 Creation of a virtual reality application, where through a specific image the mobile can create a 3D model simply by bringing it closer with its built-in camera.
 <div id="badges" align="center">
   <a href="https://github.com/kvto/ARProject1">

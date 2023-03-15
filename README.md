@@ -360,6 +360,6 @@ database and Sequelize as ORM.
 
 <div id="badges" >
 <a href="https://github.com/kvto/UnityAPP/">
-    Unity App📱 (React.js - March 2023) 
+    Unity App📱 (Unity + C# - March 2023) 
   </a>
 </div>

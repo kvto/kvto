@@ -40,8 +40,8 @@ I am a Full Stack Developer born in Venezuelan but living in Lima, Peru.
 
 ## Stats 📈:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvto)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvto&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=kvto&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Jobs 🖱
 Currently working for the company Innova Solutions, located in the district of San Miguel, Lima, Peru, working as a Web Developer in the Wordpress platform, 3D Virtual Reality Developer in the Unity Plataform.

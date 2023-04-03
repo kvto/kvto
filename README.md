@@ -352,6 +352,18 @@ database and Sequelize as ORM.
 ## Other Projects:
 
 <div id="badges" >
+<a href="https://github.com/kvto/App-ricky-and-morty">
+    Ricky and Morty App📱 (React.js - April 2023) 
+  </a>
+</div>
+  
+<div id="badges" >
+<a href="https://github.com/kvto/UnityAPP/">
+    Unity App📱 (Unity + C# - March 2023) 
+  </a>
+</div>
+  
+<div id="badges" >
 <a href="https://kjmz-projectmodal.netlify.app/">
     Modal Page (DEMO)!📄📑 (React.js - November 2022)
   </a>
@@ -375,8 +387,4 @@ database and Sequelize as ORM.
   </a>
 </div>
 
-<div id="badges" >
-<a href="https://github.com/kvto/UnityAPP/">
-    Unity App📱 (Unity + C# - March 2023) 
-  </a>
-</div>
+

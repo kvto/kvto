@@ -352,8 +352,14 @@ database and Sequelize as ORM.
 ## Other Projects:
 
 <div id="badges" >
+<a href="https://github.com/kvto/proyecto02">
+    Project simple💻 (React.js - April 2023) 
+  </a>
+</div>
+  
+<div id="badges" >
 <a href="https://github.com/kvto/App-ricky-and-morty">
-    Ricky and Morty App📱 (React.js - April 2023) 
+    Ricky and Morty App 💻 (React.js - April 2023) 
   </a>
 </div>
   

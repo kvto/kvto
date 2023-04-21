@@ -77,6 +77,14 @@ Using the template and component manager as Elementor was, plugins to manage and
   </a>
 </div>
   
+  
+## Project UI/UX 💼:
+  
+Creation of a sketch for the update of the website https://mantenimientoindustriales.com/?id=Inicio, in which the objective was to create a new representative face of your brand, with soft, elegant and modern colors; giving way to new technologies and new ways of expressing.
+
+Tools: Adobe XD and CorelDraw
+
+  
 ## Projects 💼:
 
 

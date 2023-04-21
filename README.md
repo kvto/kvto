@@ -83,7 +83,12 @@ Using the template and component manager as Elementor was, plugins to manage and
 Creation of a sketch for the update of the website https://mantenimientoindustriales.com/?id=Inicio, in which the objective was to create a new representative face of your brand, with soft, elegant and modern colors; giving way to new technologies and new ways of expressing.
 
 Tools: Adobe XD and CorelDraw
+<a href="https://drive.google.com/file/d/1wKJ_256Oal6lJ7QlRAdxGp-LEN4RapJP/view?usp=sharing">
+    User manual Download 📕
+  </a>
 
+   <img src="https://github.com/kvto/kvto/blob/main/Pagina%20principal.jpg" width="500px" align="center"> 
+  
   
 ## Projects 💼:
 

@@ -92,7 +92,14 @@ Tools: Adobe XD and CorelDraw
   
 ## Projects 💼:
 
-
+### Project created Videogame 2D! (Unity C# - Abril 2023)
+Creation of a 2D video game, in which a character will be controlled (with 3different skins) with the mission of collecting different types of fruits and defeating the various enemies. With various skill challenges. 
+<div id="badges" align="center">
+  <a href="https://github.com/kvto/Videogame2D">
+    Link to see the repository📕
+  </a>
+</div>
+ 
 ### Project created Virtual Reality mobile application! (Unity C# & Vuforia - Febrero 2023)
 Creation of a virtual reality application, where through various images the mobile can create a 3D model simply by bringing it closer with its integrated camera. Adding various scripts which are responsible for the movement of various 3D models, as well as the rotation of various elements.
 <div id="badges" align="center">

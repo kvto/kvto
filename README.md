@@ -92,6 +92,7 @@ Tools: Adobe XD and CorelDraw
   
 ## Projects 💼:
 
+
 ### Project created Videogame 2D! (Unity C# - Abril 2023)
 Creation of a 2D video game, in which a character will be controlled (with 3different skins) with the mission of collecting different types of fruits and defeating the various enemies. With various skill challenges. 
 <div id="badges" align="center">
@@ -366,6 +367,12 @@ database and Sequelize as ORM.
 
 
 ## Other Projects:
+
+<div id="badges" >
+<a href="https://github.com/kvto/example-velada">
+    Project web - La velada 3 🥊 (Astro - June 2023) 
+  </a>
+</div>
 
 <div id="badges" >
 <a href="https://github.com/kvto/proyecto02">

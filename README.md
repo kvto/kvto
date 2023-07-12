@@ -369,6 +369,12 @@ database and Sequelize as ORM.
 ## Other Projects:
 
 <div id="badges" >
+<a href="https://github.com/kvto/twitter-clone">
+    Project twitter clone 🐦 (Typescript - Next.js - June 2023) 
+  </a>
+</div>
+
+<div id="badges" >
 <a href="https://github.com/kvto/example-velada">
     Project web - La velada 3 🥊 (Astro - June 2023) 
   </a>

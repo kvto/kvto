@@ -105,6 +105,22 @@ Tools: Adobe XD and CorelDraw
   
 ## Projects 💼:
 
+### Project created Store and Admins Dashboard! (Typescript - Abril 2023)
+Creation of a virtual store as well as its control panel which serves to customize products, categories, prices, etc. It also has a visualization panel for sales, its respective checkout and an implement to use as an API
+<div id="badges" align="center">
+  <a href="https://github.com/kvto/ecommerce-admin">
+    Link to see the repository - Admin📕
+  </a>
+  <a href="https://github.com/kvto/ecommerce-store">
+    Link to see the repository - Store📕
+  </a>
+  <a href="https://ecommerce-admin-dkxw8p999-kvto.vercel.app/">
+    Link to see the deploy - Admin📕
+  </a>
+  <a href="https://ecommerce-store-eta-eight.vercel.app/">
+    Link to see the deploy - Store📕
+  </a>
+</div>
 
 ### Project created Videogame 2D! (Unity C# - Abril 2023)
 Creation of a 2D video game, in which a character will be controlled (with 3different skins) with the mission of collecting different types of fruits and defeating the various enemies. With various skill challenges. 

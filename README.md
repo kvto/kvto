@@ -192,8 +192,20 @@ Technologies used Wordpress, with free Storefront template, with a free domain a
         Link to see the page📕
   </a>
 </div>
-  
-  
+
+### Project created Page Portfolio! (React.js - November 2022)
+An application whose purpose is to show all the information pertaining to my development as a programmer,
+my skills, my academic training, my hobbies and other relevant data. Divided into 4 modules About me, Skills, My Work, Work experience, where the information is divided perfectly.
+
+<div id="badges" align="center">
+   <a href="https://github.com/kvto/Portafolio">
+    Link to see the repository📕
+  </a>
+  <a href="https://portfoliokjmz.netlify.app/">
+        Link to see the page📕
+  </a>
+</div>
+
 ### Project created Freestyle Masters Series (FMS) Mobile App ! (React Native - Octuber 2022)
 Development of an application whose purpose is to show all the participants of the different Spanish-speaking freestyle leagues, as well as important data, such as their views, ratings, etc.
 Technologies used React Native, Yup, formik

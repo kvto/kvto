@@ -104,6 +104,14 @@ Tools: Adobe XD and CorelDraw
   
 ## Projects 💼:
 
+### Project created Page Delivery! (React - Augost 2023)
+Creation of a website dedicated to ordering pizzas mainly, with different sections, such as products, orders, and others. Using primarily React, Next.js and Tailwind as technologies.
+<div id="badges" align="center">
+  <a href="https://github.com/kvto/Videogame2D">
+    Link to see the repository📕
+  </a>
+</div>
+
 ### Project created Store and Admins Dashboard! (Typescript - Abril 2023)
 Creation of a virtual store as well as its control panel which serves to customize products, categories, prices, etc. It also has a visualization panel for sales, its respective checkout and an implement to use as an API
 <div id="badges" align="center">

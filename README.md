@@ -16,7 +16,7 @@ I am a Full Stack Developer born in Venezuelan but living in Lima, Peru.
 
 🔭 Graduated in systems engineering, in 2016, knowledge in Graphic Design, English, Marketing and 3D Virtual Reality Developer.
 
-🌱 Soft skills: Team Player,  Autodidact, Creativity, Empathy, Sociable, Dedication
+🌱 Soft skills: Team Player, Autodidact, Creativity, Empathy, Sociable, Dedication
 
 ⚡ In my free time, I usually create projects and expand my knowledge regarding new technologies
 
@@ -105,15 +105,15 @@ Tools: Adobe XD and CorelDraw
 ## Projects 💼:
 
 
-### Project created Emulator project for prints! (React + Vite - Augost 2023)
-Creation of a web page whose functionality lies in acting as a simulator of the print on a garment (t-shirt), adding an image of preference to simulate the print that is expected to be made, as well as the designation of different colors around the shirt and the creation of images by artificial intelligence.
+### Project created Simple Nike Store Page! (React + Vite - September 2023)
+Simple page dedicated to providing information regarding the nike depostiva brand, the page is divided into the most popular products, offers, products in general, testimonials from different customers
 <div id="badges" align="center">
-  <a href="https://github.com/kvto/threejs">
+  <a href="https://github.com/kvto/app-nike">
     Link to see the repository📕 
   </a>
   </div>
   <div id="badges" align="center">
-    <a href="https://threejs-ecru.vercel.app/">
+    <a href="https://app-nike.vercel.app/">
     Link to see the deploy📕
   </a>
  </div>

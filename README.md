@@ -104,6 +104,21 @@ Tools: Adobe XD and CorelDraw
   
 ## Projects 💼:
 
+
+### Project created Emulator project for prints! (React + Vite - Augost 2023)
+Creation of a web page whose functionality lies in acting as a simulator of the print on a garment (t-shirt), adding an image of preference to simulate the print that is expected to be made, as well as the designation of different colors around the shirt and the creation of images by artificial intelligence.
+<div id="badges" align="center">
+  <a href="https://github.com/kvto/app-delivery">
+    Link to see the repository📕 
+  </a>
+  </div>
+  <div id="badges" align="center">
+    <a href="https://app-delivery-pied.vercel.app/">
+    Link to see the deploy📕
+  </a>
+ </div>
+
+ 
 ### Project created Page Delivery! (React - Augost 2023)
 Creation of a website dedicated to ordering pizzas mainly, with different sections, such as products, orders, and others. Using primarily React, Next.js and Tailwind as technologies.
 <div id="badges" align="center">

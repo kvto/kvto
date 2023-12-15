@@ -192,16 +192,6 @@ Creation of a virtual store as well as its control panel which serves to customi
     Link to see the repository - Store📕
   </a>
   </div>
-  <div id="badges" align="center">
-  <a href="https://ecommerce-admin-dkxw8p999-kvto.vercel.app/">
-    Link to see the deploy - Admin📕
-  </a>
-  </div>
-  <div id="badges" align="center">
-  <a href="https://ecommerce-store-eta-eight.vercel.app/">
-    Link to see the deploy - Store📕
-  </a>
-</div>
 
 ### Project created Videogame 2D! (Unity C# - Abril 2023)
 Creation of a 2D video game, in which a character will be controlled (with 3different skins) with the mission of collecting different types of fruits and defeating the various enemies. With various skill challenges. 
@@ -277,6 +267,8 @@ my skills, my academic training, my hobbies and other relevant data. Divided int
    <a href="https://github.com/kvto/Portafolio">
     Link to see the repository📕
   </a>
+  </div>
+  <div id="badges" align="center">
   <a href="https://portfoliokjmz.netlify.app/">
         Link to see the page📕
   </a>

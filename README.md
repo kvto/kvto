@@ -107,12 +107,26 @@ Tools: Adobe XD and CorelDraw
     User manual Download 📕
   </a>
 
-   <img src="https://github.com/kvto/kvto/blob/main/Pagina%20principal.jpg" width="500px" align="center"> 
+   <img src="https://github.com/kvto/kvto/blob/main/Pagina%20principal.jpg" width="200px" align="center"> 
   
   
 ## Projects 💼:
 
 
+### Project created Course Plataform! (Next 13 + React - December 2023)
+Creation of a platform for the distribution of teaching resources, in addition to having a simple section where students can see each course they acquire from the various specialties.
+<div id="badges" align="center">
+  <a href="https://github.com/kvto/lms-tutorial">
+    Link to see the repository📕 
+  </a>
+  </div>
+  <div id="badges" align="center">
+    <a href="https://lms-tutorial-ten.vercel.app/">
+    Link to see the deploy📕
+  </a>
+ </div>
+
+ 
 ### Project created Simple Nike Store Page! (React + Vite - September 2023)
 Simple page dedicated to providing information regarding the nike depostiva brand, the page is divided into the most popular products, offers, products in general, testimonials from different customers
 <div id="badges" align="center">

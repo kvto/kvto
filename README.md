@@ -126,6 +126,18 @@ Creation of a platform for the distribution of teaching resources, in addition t
   </a>
  </div>
 
+### Project created 3D Portafolio (ThreeJS + React - December 2023)
+Creation of a personal page in which it functions as a portfolio, showing the technologies I use, the projects carried out, the experience among other elements; using 3D tools giving an innovative and unique touch.
+<div id="badges" align="center">
+  <a href="https://github.com/kvto/3D-portafolio">
+    Link to see the repository📕 
+  </a>
+  </div>
+  <div id="badges" align="center">
+    <a href="https://3-d-portafolio-olive.vercel.app/">
+    Link to see the deploy📕
+  </a>
+ </div>
  
 ### Project created Simple Nike Store Page! (React + Vite - September 2023)
 Simple page dedicated to providing information regarding the nike depostiva brand, the page is divided into the most popular products, offers, products in general, testimonials from different customers

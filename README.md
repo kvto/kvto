@@ -537,6 +537,18 @@ database and Sequelize as ORM.
 ## Other Projects:
 
 <div id="badges" >
+<a href="https://github.com/kvto/ai-story-builder">
+    AI Story Builder 📚 (Javascript - Next.js - Octubre 2024) 
+  </a>
+</div>
+
+<div id="badges" >
+<a href="https://github.com/kvto/short-video-generator">
+    AI Video Generator 📽 (Typescript - Next.js - Octubre 2024) 
+  </a>
+</div>
+
+<div id="badges" >
 <a href="https://github.com/kvto/twitter-clone">
     Project twitter clone 🐦 (Typescript - Next.js - June 2023) 
   </a>

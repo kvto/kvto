@@ -139,6 +139,7 @@ Creation of a platform where you can request food orders, as well as manage the 
   <a href="https://github.com/kvto/food-aplication-frontend">
     Link to see the repository (Frontend)📕 
   </a>
+  <div id="badges" align="center">
    <a href="https://github.com/kvto/food-aplication-backend">
     Link to see the repository (Backend)📕 
   </a>
@@ -147,6 +148,7 @@ Creation of a platform where you can request food orders, as well as manage the 
     <a href="https://food-aplication-frontend.onrender.com/">
     Link to see the deploy (Frontend)📕
   </a>
+    </div>
     <a href="https://food-aplication-backend.onrender.com/">
     Link to see the deploy (Backend)📕
   </a>

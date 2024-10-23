@@ -120,6 +120,19 @@ Using the template and component manager as Elementor was, plugins to manage and
 ## Projects 💼:
 
 
+### Project created Course Plataform! (Next 13 + React - Octuber 2024)
+Creation of a platform where you can schedule medical appointments with different types of doctors, in addition to having an administration panel where you can cancel appointments
+<div id="badges" align="center">
+  <a href="https://github.com/kvto/PlusCare">
+    Link to see the repository📕 
+  </a>
+  </div>
+  <div id="badges" align="center">
+    <a href="https://plus-care.vercel.app/">
+    Link to see the deploy📕
+  </a>
+ </div>
+
 ### Project created Course Plataform! (Next 13 + React - December 2023)
 Creation of a platform for the distribution of teaching resources, in addition to having a simple section where students can see each course they acquire from the various specialties.
 <div id="badges" align="center">

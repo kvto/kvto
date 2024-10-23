@@ -154,6 +154,19 @@ Creation of a platform where you can request food orders, as well as manage the 
   </a>
  </div>
 
+### Project created Financial Plataform! (Next 13 + React - Octuber 2024)
+Creation of a financial platform where you can view different types of banks, transactions, etc.
+<div id="badges" align="center">
+  <a href="https://github.com/kvto/PlusCa">
+    Link to see the repository📕 
+  </a>
+  </div>
+  <div id="badges" align="center">
+    <a href="https://km-banking.vercel.app/">
+    Link to see the deploy📕
+  </a>
+ </div>
+
 ### Project created Course Plataform! (Next 13 + React - December 2023)
 Creation of a platform for the distribution of teaching resources, in addition to having a simple section where students can see each course they acquire from the various specialties.
 <div id="badges" align="center">

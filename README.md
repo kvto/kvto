@@ -120,7 +120,7 @@ Using the template and component manager as Elementor was, plugins to manage and
 ## Projects 💼:
 
 
-### Project created Course Plataform! (Next 13 + React - Octuber 2024)
+### Project created Medical Plataform! (Next 13 + React - Octuber 2024)
 Creation of a platform where you can schedule medical appointments with different types of doctors, in addition to having an administration panel where you can cancel appointments
 <div id="badges" align="center">
   <a href="https://github.com/kvto/PlusCare">
@@ -130,6 +130,25 @@ Creation of a platform where you can schedule medical appointments with differen
   <div id="badges" align="center">
     <a href="https://plus-care.vercel.app/">
     Link to see the deploy📕
+  </a>
+ </div>
+
+### Project created Food Plataform! (Next 13 + React - September 2024)
+Creation of a platform where you can request food orders, as well as manage the branches of all restaurants
+<div id="badges" align="center">
+  <a href="https://github.com/kvto/food-aplication-frontend">
+    Link to see the repository (Frontend)📕 
+  </a>
+   <a href="https://github.com/kvto/food-aplication-backend">
+    Link to see the repository (Backend)📕 
+  </a>
+  </div>
+  <div id="badges" align="center">
+    <a href="https://food-aplication-frontend.onrender.com/">
+    Link to see the deploy (Frontend)📕
+  </a>
+    <a href="https://food-aplication-backend.onrender.com/">
+    Link to see the deploy (Backend)📕
   </a>
  </div>
 

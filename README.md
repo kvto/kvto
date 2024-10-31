@@ -120,6 +120,19 @@ Using the template and component manager as Elementor was, plugins to manage and
 ## Projects 💼:
 
 
+### Project created iPhone Plataform! (Vite + React - Octuber 2024)
+Creating a platform where all the features of the iPhone are shown
+<div id="badges" align="center">
+  <a href="https://github.com/kvto/apple-web">
+    Link to see the repository📕 
+  </a>
+  </div>
+  <div id="badges" align="center">
+    <a href="https://apple-web-orpin.vercel.app/">
+    Link to see the deploy📕
+  </a>
+ </div>
+
 ### Project created Medical Plataform! (Next 13 + React - Octuber 2024)
 Creation of a platform where you can schedule medical appointments with different types of doctors, in addition to having an administration panel where you can cancel appointments
 <div id="badges" align="center">
